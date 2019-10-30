@@ -10,3 +10,6 @@ Try bacis machine learing methods,and generate Confusion Matrix, ROC curve, PCA.
 
 ### Project_2_2.ipynb
 Find a suitable number of gene for prediction.
+
+## Description
+The description word file correspond to the code file
